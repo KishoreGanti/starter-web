@@ -8,6 +8,10 @@ Deployment can be on Web Server or local
 Sample website with plenty of files for demos
 Deployment can be on Web Server or local
 
+##How to Contirbute
+
+Please fork this repository and then issue Pull Requests for review.
+
 ###Copyright
 
 2023 Git.Training.
