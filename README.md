@@ -1,7 +1,7 @@
 # Starter Web Repo
 
 This repository is for showing how Git and GitHub work
-Deployment can be on Web Server or local. Adding a line for rebasing example.
+Deployment can be on Web Server or local. Adding a line for rebasing example, then more changes from my feature branch too.
 
 ## Purpose
 
